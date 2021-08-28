@@ -5,13 +5,13 @@ import style from './books.module.css';
 
 const Books = () => (
   <div className={style.div}>
-    <div className={style.bookDiv}>
-      <AddBooks />
-    </div>
+    <ul className={style.ul}>
+      <BookPiece />
+    </ul>
     <div>
-      <ul className={style.ul}>
-        <BookPiece />
-      </ul>
+      <div className={style.bookDiv}>
+        <AddBooks />
+      </div>
     </div>
   </div>
 );
