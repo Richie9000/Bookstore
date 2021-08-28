@@ -48,8 +48,7 @@
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   text-decoration: none;
-  letter-spacing: 1.9px;
-  transition: all 0.3s;
+  letter-spacing: 2px;
 }
 
 .link:hover {
@@ -57,14 +56,14 @@
 }
 
 .title {
-  font-size: 2.5rem;
+  font-size: 3rem;
   color: #0290ff;
   margin: 0;
 }
 
 .icon {
   color: #0290ff;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   border: 1px solid #e8e8e8;
   border-radius: 50%;
   padding: 5px;

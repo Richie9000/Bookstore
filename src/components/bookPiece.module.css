@@ -38,7 +38,7 @@
 
 .title {
   flex: 8;
-  font-size: 1.375rem;
+  font-size: 1.5rem;
   margin-left: 2rem;
 }
 
@@ -66,8 +66,8 @@
   background-color: #0290ff;
   color: #fff;
   border-radius: 3px;
-  width: 11.5rem;
-  height: 2.063rem;
+  width: 11rem;
+  height: 2rem;
   flex: 1;
   margin-right: 2rem;
   border: none;
@@ -103,7 +103,7 @@
 }
 
 .completed {
-  font-size: 0.875rem;
+  font-size: 1rem;
   margin: 0 0 0 2rem;
 }
 

@@ -24,7 +24,7 @@
 }
 
 .input {
-  height: 2.813rem;
+  height: 2.8rem;
   border-radius: 5px;
   border: 1px solid #e8e8e8;
   padding-left: 15px;
@@ -43,16 +43,16 @@
 }
 
 .input1 {
-  width: 41.5rem;
+  width: 41 rem;
 }
 
 .input2 {
-  width: 17.813rem;
+  width: 17 rem;
 }
 
 .button {
-  width: 11.5rem;
-  height: 2.813rem;
+  width: 11 rem;
+  height: 2 rem;
   border-radius: 3px;
   background-color: #0290ff;
   border: none;
@@ -67,5 +67,5 @@
 
 .button:active {
   box-shadow: inset 1px 1px 5px black;
-  background-color: #0362aa;
+  background-color: #0363a0;
 }
